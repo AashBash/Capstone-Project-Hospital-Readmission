@@ -7,7 +7,7 @@ Every day, thousands of patients are admitted to hospitals. However, in some cas
 - Python, Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn
-- Linear Regression, Random Forest Model, XG Boost
+- Machine Learning algorithm
 
 ## Key Steps
 1. Cleaned and preprocessed dataset (~70,000 patient records).  
@@ -18,4 +18,5 @@ Every day, thousands of patients are admitted to hospitals. However, in some cas
 ## Results
 - Best model: Random Forest (AUC: 0.81)  
 - Top predictors: number of inpatient visits, discharge disposition, age group.  
+
 
